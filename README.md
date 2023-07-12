@@ -8,8 +8,8 @@
 
 ### FE
 
+- [엽토](./yeopto.md)
 - [룩소](./LUXO.md)
-- 엽토
 - [노아](./noah.md)
 
 ### BE
